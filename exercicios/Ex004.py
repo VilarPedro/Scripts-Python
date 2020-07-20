@@ -32,16 +32,16 @@ print('está em minúscula? ', a.islower())
 print('está capitalizada? ', a.istitle())
 
 
-isalnum
-isalpha
-isnumeric
-isspace
-isprintable
-isdecimal
-istitle
-islower
-isupper
-isdigit
+# isalnum
+# isalpha
+# isnumeric
+# isspace
+# isprintable
+# isdecimal
+# istitle
+# islower
+# isupper
+# isdigit
 
 # Todo obejeto tem caracteristicas e possui funcionalidades, atributos e metodos.
 
